@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ealfoxyl.github.io/sitemap.html.gz
+Sitemap: https://ealfoxyl.github.io/app/sitemap.html.gz
+Sitemap: https://ealfoxyl.github.io/assets/sitemap.html.gz
+Sitemap: https://ealfoxyl.github.io/css/sitemap.html.gz
+Sitemap: https://ealfoxyl.github.io/data/sitemap.html.gz
+Sitemap: https://ealfoxyl.github.io/includes/sitemap.html.gz
+Sitemap: https://ealfoxyl.github.io/item/sitemap.html.gz
+Sitemap: https://ealfoxyl.github.io/src/sitemap.html.gz
